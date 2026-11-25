@@ -1,0 +1,14 @@
+{
+    "visible": false,
+    "language": "auto",
+    "navigation_mode": "all",
+    "include_filtered_decks": true,
+    "label_mode": "short",
+    "shortcuts": {
+        "toggle": "Alt+N",
+        "prev_sub": "Alt+Left",
+        "next_sub": "Alt+Right",
+        "prev_root": "Alt+Shift+Left",
+        "next_root": "Alt+Shift+Right"
+    }
+}

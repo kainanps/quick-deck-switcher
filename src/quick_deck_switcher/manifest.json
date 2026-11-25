@@ -1,0 +1,9 @@
+{
+    "package": "quick_deck_switcher",
+    "name": "Quick Deck Switcher",
+    "human_version": "1.1.0",
+    "homepage": "https://github.com/kainanps/quick-deck-switcher",
+    "min_point_version": 231000,
+    "conflicts": [],
+    "mod": 1795613146
+}
